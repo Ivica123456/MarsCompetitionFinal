@@ -1,0 +1,6 @@
+Sleep(1000)
+ControlFocus("Open","","Edit1")
+Sleep(1000)
+ControlSetText("Open","","Edit1","C:\Users\Ivica\Downloads\Updated-Level-1-Day-1-of-4-Page-1_1-791x1024.jpg")
+Sleep(1000)
+ControlClick("Open","","Button1")

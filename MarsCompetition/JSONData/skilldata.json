@@ -1,0 +1,27 @@
+﻿{
+
+
+  "title": "Swimming class",
+  "description": "Essential swimming skills",
+  "category": "Fun & Lifestyle",
+  "tags": "TOMATTO",
+  "tags2": "pool",
+  "tags3": "soHard",
+  "serviceType": "Hourly basis service",
+  "locationType": "On-site",
+  "startDate": "2023-10-20",
+  "endDate": "2023-12-22",
+  "startTime": "11:45am",
+  "endTime": "02:45pm",
+  "skillTradeOptions": "true",
+  "creditServiceCharge": "5",
+  "activeServices": "true",
+  "filePath": "C:\\Users\\Ivica\\Downloads\\Updated-Level-1-Day-1-of-4-Page-1_1-791x1024.jpg",
+  "url": "http://localhost:5000/Home"
+
+
+
+
+
+
+}

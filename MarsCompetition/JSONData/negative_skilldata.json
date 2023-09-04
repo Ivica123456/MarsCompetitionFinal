@@ -1,0 +1,23 @@
+﻿{
+
+  "title": "English Class",
+  "description": "Learning English",
+  "category": "Teaching",
+  "tags": "talking",
+  "tags2": "running",
+  "tags3": "so easy",
+  "serviceType": "minute base service",
+  "locationType": "Online",
+  "startDate": "11.20.2023",
+  "endDate": "12.12.2023",
+  "startTime": "Invalid start time",
+  "endTime": "Invalid end time",
+  "skillTradeOptions": "Invalid skill trade options",
+  "creditServiceCharge": "Invalid credit service charge",
+  "activeServices": "Invalid active services",
+  "filePath": "Invalid file path",
+  "url": "Invalid URL"
+
+
+
+}
