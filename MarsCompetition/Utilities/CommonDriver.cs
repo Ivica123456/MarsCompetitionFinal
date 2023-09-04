@@ -93,11 +93,11 @@ namespace MarsCompetition.Utilities
         //part2 ends //////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-        //[TearDown]
-        //public void Teardown()
-        //{
-        //    // Quit the WebDriver
-        //    driver.Quit();
-        //}
+        [TearDown]
+        public void Teardown()
+        {
+            // Quit the WebDriver
+            driver.Quit();
+        }
     }
 }
